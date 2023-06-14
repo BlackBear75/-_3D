@@ -1,0 +1,15 @@
+﻿  main.cpp
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(23,25): warning C4305: инициализация: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(33,30): warning C4305: аргумент: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(34,31): warning C4305: аргумент: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(202,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(203,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(212,26): warning C4305: -=: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(214,26): warning C4305: +=: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(217,26): warning C4305: -=: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(219,26): warning C4305: +=: усечение из "double" в "float"
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(223,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(224,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(229,29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+V:\KYRSOVA\SOKOBAN1\SOKOBAN\SOKOBAN\main.cpp(230,29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  SOKOBAN.vcxproj -> V:\KYRSOVA\SOKOBAN1\SOKOBAN\Debug\SOKOBAN.exe
